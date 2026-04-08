@@ -145,10 +145,10 @@ Make sure all [required](#requirements) software is installed.
 Open a terminal and run the following commands:
 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/cyber99aams/PhoneSploit-Pro.git
 ```
 ```
-cd PhoneSploit-Pro/
+cd PhoneSploit-Pro
 ```
 ```
 pip install -r requirements.txt
@@ -164,10 +164,10 @@ Make sure all [required](#requirements) software is installed.
 Open a terminal and run the following commands:
 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/cyber99aams/PhoneSploit-Pro.git
 ```
 ```
-cd PhoneSploit-Pro/
+cd PhoneSploit-Pro
 ```
 ```
 pip install -r requirements.txt
